@@ -1,2 +1,1 @@
 # Otus
-# Otus
